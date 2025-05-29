@@ -506,7 +506,7 @@ Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE.md](LI
 ## 📞 Suporte
 
 - **Documentação**: [Laravel Documentation](https://laravel.com/docs)
-- **Issues**: [GitHub Issues](https://github.com/seu-usuario/projeto/issues)
+- **Bugs**: Reporte problemas pelo email
 - **Email**: andrecordeiro.inf@gmail.com
 
 ---
